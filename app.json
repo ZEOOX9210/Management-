@@ -1,9 +1,9 @@
 {
-   "name": "Yae Miko",
+   "name": "𝐑𝐄𝐂𝐑𝐄𝐀𝐓𝐈𝐎𝐍 𝐙𝐎𝐃𝐄𝐗",
    "description": "A versatile Telegram Group Management Bot.",
-   "logo": "https://telegra.ph/file/4d370b478d90d98709398.jpg",
+   "logo": "https://graph.org/file/d639e058fa2736da8bb02.jpg",
    "keywords": ["telegram", "modular", "group", "management", "Miko"],
-   "repository": "https://github.com/Infamous-Hydra/YaeMiko",
+   "repository": "https://github.com/ZEOOX9210/Management-",
    "stack": "heroku-22",
    "addons": [
       {
@@ -41,7 +41,7 @@
       "MESSAGE_DUMP": {
          "description": "Support chat ID.",
          "required": true,
-         "value": "-1001511142636"
+         "value": "-1002125131058"
       },
       "MONGO_DB_URI": {
          "description": "Required for MongoDB database connections.",
@@ -56,12 +56,12 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5907205317"
+         "value": "6543453496"
       },
       "DEV_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5907205317"
+         "value": "6543453496"
       },
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
@@ -75,7 +75,7 @@
       "DEMONS": {
          "description": "A space separated list of user IDs who can use Gban From Your Bot",
          "required": false,
-         "value": "5907205317"
+         "value": "6543453496"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who can not be banned by your Bot",
@@ -95,7 +95,7 @@
       "SUPPORT_ID": {
          "description": "Support chat ID.",
          "required": true,
-         "value": "-1001511142636"
+         "value": "-1002125131058"
       },
       "DB_NAME": {
          "description": "Your MongoDB name.",
