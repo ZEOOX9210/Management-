@@ -14,14 +14,14 @@ class Config(object):
     API_HASH = "91e009bc23e152299a514c7cf1d28f5d"
 
     # Database configuration (PostgreSQL)
-    DATABASE_URL = "postgres://crtcimfz:6WLV1oo_9hbRuOczJezHC8_e0wYpk_2Z@tiny.db.elephantsql.com/crtcimfz"
+    DATABASE_URL = "postgres://ierjlkr:OG4dxzO67Zret3Zii43Hhvujkg89WVry0n9KsHE@karma.db.elephantsql.com/ierjlkr"
 
     # Event logs chat ID and message dump chat ID
     EVENT_LOGS = -1002125131058
     MESSAGE_DUMP = -1002125131058
 
     # MongoDB configuration
-    MONGO_DB_URI = "mongodb+srv://ravi:ravi12345@cluster0.hndinhj.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_DB_URI = "mongodb+srv://t45:t45@cluster0.plfylpo.mongodb.net/?retryWrites=true&w=majority"
 
     # Support chat and support ID
     SUPPORT_CHAT = "CHATTING_HUB8"
